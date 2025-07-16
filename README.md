@@ -68,6 +68,6 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX e
 </p>
 
 
-### 🐍 Cobra de contribuições
-
-![Snake animation](https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
