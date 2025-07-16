@@ -69,5 +69,6 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX e
 
 ### 🐍 Cobra de contribuições
 <p align="center">
-  ![Snake dark](https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
+
