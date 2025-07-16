@@ -57,12 +57,6 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX e
 
 ---
 
-### 📫 Onde me encontrar
-
-- ✉️ joaovictorrufopereira44@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/)
-
----
 
 
 ### 🐍 Cobra de contribuições
@@ -70,6 +64,12 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX e
   <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
+### 📫 Onde me encontrar
+
+- ✉️ joaovictorrufopereira44@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/)
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=120&section=footer"/>
 </p>
