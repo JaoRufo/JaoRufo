@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Flutter+e+Vue;Apaixonado+por+tecnologia+%F0%9F%92%BB;Fazendo+c%C3%B3digo+virar+realidade+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia+%F0%9F%92%BB;Fazendo+c%C3%B3digo+virar+realidade+%F0%9F%9A%80" />
 </p>
 
 ---
