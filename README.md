@@ -63,12 +63,12 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX e
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=120&section=footer"/>
-</p>
 
 ### 🐍 Cobra de contribuições
 <p align="center">
   <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=120&section=footer"/>
+</p>
