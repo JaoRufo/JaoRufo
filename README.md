@@ -31,6 +31,10 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/U
 </div>
 
 ---
+### Cobrinha de contribuições:
+<p align="center">
+  <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 ### Estatísticas do GitHub:
 
@@ -59,10 +63,6 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/U
 
 
 
-### Cobrinha de contribuições:
-<p align="center">
-  <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
 
 ### Onde me encontrar:
 
