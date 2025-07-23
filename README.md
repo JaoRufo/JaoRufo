@@ -1,22 +1,22 @@
-<!-- Banner animado ou imagem destacada -->
+<!-- Highlighted banner or animated image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=200&section=header&text=Olá,%20eu%20sou%20o%20João!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=200&section=header&text=Hey,%20I'm%20João!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia+%F0%9F%92%BB;Fazendo+c%C3%B3digo+virar+realidade+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Front-End+Developer;Passionate+about+technology+%F0%9F%92%BB;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
 
-### Sobre mim:
+### About Me:
 
-E aí! Eu sou o João, desenvolvedor Front-end com conhecimento em Flutter, Vue e outras loucuras do front-end moderno.  
-Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/UI e eficiência.
+Hey there! I'm João, a Front-End Developer with experience in Flutter, Vue, and other modern front-end madness.  
+I love turning ideas into real-world solutions, with a strong focus on clean code, UX/UI, and performance.
 
 ---
 
-### Tecnologias que uso:
+### Technologies I Use:
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -31,12 +31,16 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/U
 </div>
 
 ---
-### Cobrinha de contribuições:
+
+### Contribution Snake:
+
 <p align="center">
   <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
-### Estatísticas do GitHub:
+---
+
+### GitHub Stats:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaoRufo&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -45,7 +49,7 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/U
 
 ---
 
-### Repositórios em destaque:
+### Featured Repositories:
 
 <div align="center">
 
@@ -61,15 +65,13 @@ Gosto de transformar ideias em soluções reais, com foco em código limpo, UX/U
 
 ---
 
-
-
-
-### Onde me encontrar:
+### Where to Find Me:
 
 - ✉️ joaovictorrufopereira44@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/)
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=120&section=footer"/>
 </p>
