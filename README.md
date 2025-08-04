@@ -4,15 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Front-End+Developer;Passionate+about+technology+%F0%9F%92%BB;Turning+code+into+reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ### About Me:
 
-Hey there! I'm João, a Front-End Developer with experience in Flutter, Vue, and other modern front-end madness.  
-I love turning ideas into real-world solutions, with a strong focus on clean code, UX/UI, and performance.
+Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, and other modern web technologies. I enjoy building complete solutions from backend APIs to polished front-end interfaces, always focusing on clean code, performance, and great user experiences.
 
 ---
 
