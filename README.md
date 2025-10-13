@@ -58,8 +58,8 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 ### Featured Repositories:
 
 <div align="center">
-  <a href="https://github.com/JaoRufo/quasar-CryptoViz"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=quasar-CryptoViz&theme=tokyonight" /> </a> 
-  <a href="https://github.com/JaoRufo/hangar-hamburguer-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=hangar-hamburguer-app&theme=tokyonight" />
+  <a href="https://github.com/JaoRufo/quasar-CryptoViz"> <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=quasar-CryptoViz&theme=tokyonight" /> </a> 
+  <a href="https://github.com/JaoRufo/hangar-hamburguer-app"> <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=hangar-hamburguer-app&theme=tokyonight" />
   </a> 
 </div>
 
