@@ -54,7 +54,7 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 </div>
 
 ---
-
+ 
 ### Featured Repositories:
 
 <table align="center" style="table-layout: fixed;">
