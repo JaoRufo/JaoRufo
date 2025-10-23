@@ -71,13 +71,13 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
       </a>
     </td>
     <td width="420" align="center" valign="middle">
-      <a href="https://github.com/JaoRufo/hangar-do-hamburguer-backend">
+      <a href="https://github.com/JaoRufo/quasar-CryptoViz">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=hangar-do-hamburguer-backend&theme=tokyonight"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=JaoRufo&repo=quasar-CryptoViz&theme=tokyonight"
           width="420"
           height="150"
           style="display:block; object-fit:cover;"
-          alt="hangar-do-hamburguer-backend"
+          alt="quasar-CryptoViz"
         />
       </a>
     </td>
