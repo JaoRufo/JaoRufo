@@ -90,8 +90,9 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 
 ### Where to Find Me:
 
-- ✉️ joaovictorrufopereira44@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/)
+- joaovictorrufopereira44@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/)
+- [Instagram](https://www.instagram.com/jao_rufo/)
 
 ---
 
