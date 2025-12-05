@@ -46,12 +46,7 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 
 ---
 
-### GitHub Stats:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaoRufo&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRufo&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
  
