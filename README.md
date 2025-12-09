@@ -44,11 +44,7 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
   <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
----
 
-
-
----
  
 
 
