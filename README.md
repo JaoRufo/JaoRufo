@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=💻+FullStack+Developer;🎮+Exploring+Game+Development;⚙️+Building+Multiplayer+Systems;🚀+Passionate+About+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -39,30 +38,12 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaoRufo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRufo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-### Current Focus
-
-```txt
-💻 Building multiplayer experiences
-🎮 Learning game development with Godot & Phaser
-🚀 Improving backend architecture skills
-```
-
 ### Contribution Snake:
 
 <p align="center">
   <img src="https://github.com/JaoRufo/JaoRufo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
-
- 
 ---
 
 ### Where to Find Me:
