@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB; %F0%9F%8E%AE+Exploring+Game+Development;Turning+code+into+reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;%F0%9F%8E%AE+Exploring+Game+Development;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -36,6 +36,10 @@ Currently, I'm also exploring game development with Godot, Phaser, and multiplay
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phaser-3C5A99?style=for-the-badge&logo=phaser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>
 
 ---
