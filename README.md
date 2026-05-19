@@ -50,15 +50,6 @@ Currently, I'm also exploring game development with Godot, Phaser, and multiplay
 
 ---
 
-
-### GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JaoRufo&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
 ### Contribution Snake:
 
 <p align="center">
