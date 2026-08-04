@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;%F0%9F%8E%AE+Exploring+Game+Development;Curious+about+new+stacks+%26+AI+%F0%9F%A4%96;Turning+code+into+reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;Exploring+Game+Development+%F0%9F%8E%AE;Curious+about+new+stacks+%26+AI+%F0%9F%A4%96;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
