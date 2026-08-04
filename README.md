@@ -11,7 +11,7 @@
 
 ### About Me:
 
-Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, and other modern web technologies. I enjoy building complete solutions from backend APIs to polished front-end interfaces, always focusing on clean code, performance, and great user experiences.
+Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, and other modern web technologies. I enjoy building complete solutions from backend APIs to polished front-end interfaces, always focusing on clean code, performance, and great user experiences. I'm also an AI enthusiast, always keeping up with the latest developments, tools, and trends in the AI ecosystem and exploring how these technologies can be applied to software development.
 
 Currently, I'm also exploring game development with Godot, Phaser, and multiplayer systems, expanding my skills by creating interactive and real-time experiences.
 
