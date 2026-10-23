@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;Exploring+Game+Development+%F0%9F%8E%AE;Curious+about+new+stacks+%26+AI+%F0%9F%A4%96;Turning+code+into+reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Passionate+about+technology+%F0%9F%92%BB;Curious+about+new+stacks+%26+AI+%F0%9F%A4%96;Turning+code+into+reality+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -13,8 +13,6 @@
 
 Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, and other modern web technologies. I enjoy building complete solutions from backend APIs to polished front-end interfaces, always focusing on clean code, performance, and great user experiences. I'm also an AI enthusiast, always keeping up with the latest developments, tools, and trends in the AI ecosystem and exploring how these technologies can be applied to software development.
 
-Currently, I'm also exploring game development with Godot, Phaser, and multiplayer systems, expanding my skills by creating interactive and real-time experiences.
-
 ---
 
 ### Technologies I Use:
@@ -22,6 +20,8 @@ Currently, I'm also exploring game development with Godot, Phaser, and multiplay
 <div style="display: flex; flex-wrap: wrap;" align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -49,6 +49,18 @@ Currently, I'm also exploring game development with Godot, Phaser, and multiplay
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge"/>
 </div>
+
+---
+
+### GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaoRufo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="JaoRufo's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRufo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
