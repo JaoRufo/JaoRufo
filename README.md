@@ -72,7 +72,7 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
 ### Where to Find Me:
 
 <p align="center">
-  <a href="mailto:joaovictorrufopereira44@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaovictorrufopereira44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rufo-pereira/" target="_blank">
