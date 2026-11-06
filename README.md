@@ -53,16 +53,6 @@ Hey there! I'm João, a FullStack Developer working with Node.js, Vue, Flutter, 
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge"/>
 </div>
 
----
-
-### GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoRufo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="JaoRufo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoRufo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
----
 
 ### Contribution Snake:
 
